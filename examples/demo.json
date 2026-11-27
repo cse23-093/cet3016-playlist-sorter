@@ -1,0 +1,24 @@
+{
+  "playlists": [
+    {
+      "name": "Road Trip",
+      "songs": [
+        {"name": "Sunrise", "singer": "Aya Moko", "genre": "Pop"},
+        {"name": "Blue Hour", "singer": "Léa Moss", "genre": "Jazz"},
+        {"name": "Blue Hour", "singer": "Léa Moss", "genre": "Acoustic"}
+      ]
+    },
+    {
+      "name": "After Dark",
+      "songs": [
+        {"name": "Night Bus", "singer": "Léa Moss", "genre": "Soul"},
+        {"name": "blue hour", "singer": "LÉA MOSS", "genre": "Jazz"},
+        {"name": "Blue Hour", "singer": "Kai Grey", "genre": "Indie"}
+      ]
+    },
+    {
+      "name": "Desk Mix",
+      "songs": []
+    }
+  ]
+}

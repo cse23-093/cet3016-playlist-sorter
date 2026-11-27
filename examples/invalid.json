@@ -1,0 +1,6 @@
+{
+  "playlists": [
+    {"name": "Valid First Playlist", "songs": []},
+    {"name": "Invalid Second Playlist", "songs": [{"name": "Missing Genre", "singer": "Kai Grey"}]}
+  ]
+}

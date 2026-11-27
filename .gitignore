@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+CET3016_playlist_sorter_review.zip
+demo-export*.txt
